@@ -1,0 +1,14 @@
+                                                                      Weather Classification
+
+The weather conditions not only strongly influence us in our daily lives through the solar energy system and outdoor sporting events as examples, but also affects the functionality of many visual systems including outdoor video surveillance and vehicle assistant driving systems (by heavy rain, haze, etc.). 
+
+It is no doubt that, judging the weather conditions by a single image, also known as weather classification task, plays a vital role in many visual and weather systems. 
+
+Nowadays, the weather classification task is commonly accomplished by the human vision or expensive sensors. Since weather condition is local to an area, lack of the required human resources and/or the expensive sensors limits the availability of local measurement of the weather condition. 
+
+Recently, researchers argued that computer vision techniques could be developed to accurately classify weather conditions through images, which might save expensive human and instrumental resources (i.e., sensors) since economical surveillance cameras are ubiquitous and would be sufficient to accomplish weather classification.
+
+It will also be used in agricultural sector, like using it watering the fields based on the images. It doesn’t need any instrumental resources like sensors and with the help of images, it minimizes or stops watering the fields.
+
+ In this paper, we refer to weather classification from images as the task of predicting the class of the weather given an image (e.g., cloudy, sunny, shine, rain.).
+
